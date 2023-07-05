@@ -13,6 +13,7 @@ edit the BACKLOG list variable in backlog.py:
 BACKLOG = ["Game 1 Here",
 "Game 2 Here",
 "Game 3 Here",
+]
 ```
 
 
